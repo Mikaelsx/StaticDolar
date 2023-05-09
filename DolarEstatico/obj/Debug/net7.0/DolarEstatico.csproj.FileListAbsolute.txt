@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\DolarEstatico\bin\Debug\net7.0\DolarEstatico.exe
+C:\Users\51915337801\Desktop\DolarEstatico\bin\Debug\net7.0\DolarEstatico.deps.json
+C:\Users\51915337801\Desktop\DolarEstatico\bin\Debug\net7.0\DolarEstatico.runtimeconfig.json
+C:\Users\51915337801\Desktop\DolarEstatico\bin\Debug\net7.0\DolarEstatico.dll
+C:\Users\51915337801\Desktop\DolarEstatico\bin\Debug\net7.0\DolarEstatico.pdb
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.csproj.AssemblyReference.cache
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.dll
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\refint\DolarEstatico.dll
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.pdb
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\DolarEstatico.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\DolarEstatico\obj\Debug\net7.0\ref\DolarEstatico.dll
